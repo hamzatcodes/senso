@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/senso/static/css/main.c6cc8591.css",
+    "main.js": "/senso/static/js/main.2178d86a.js",
+    "static/js/787.7e775cb0.chunk.js": "/senso/static/js/787.7e775cb0.chunk.js",
+    "static/media/Nfts.svg": "/senso/static/media/Nfts.c362bda9a06c0ba9100af123cfa6bfa5.svg",
+    "static/media/dragon2.svg": "/senso/static/media/dragon2.b3e2a2a8381899f13d0a8031b0a9e57a.svg",
+    "static/media/serpent.svg": "/senso/static/media/serpent.c584162211d63eabb093bdcbae61a975.svg",
+    "static/media/flydragon.svg": "/senso/static/media/flydragon.c0a766c62b9478272205aaf50ca9ab0a.svg",
+    "static/media/senso-token.svg": "/senso/static/media/senso-token.b6c6a2ad1776e128d48e08b5ca3a1a23.svg",
+    "static/media/scroll2.svg": "/senso/static/media/scroll2.ef4196b56bb0eaf446b6b0d3fbb062f9.svg",
+    "static/media/scroll.svg": "/senso/static/media/scroll.0dbfd5a0c87061758099dc746c25634b.svg",
+    "static/media/rizontie-3d.svg": "/senso/static/media/rizontie-3d.5ec61e67bb2869917c7174cb5655f1b9.svg",
+    "static/media/alina-3d.svg": "/senso/static/media/alina-3d.955f8a9416d8423abe34131fad9d2757.svg",
+    "static/media/xiu-3d.svg": "/senso/static/media/xiu-3d.4f191e7f2e99c17c930836fb616309e2.svg",
+    "static/media/hero-dragon.svg": "/senso/static/media/hero-dragon.ebdced53ddcaedc750c018f3be3277df.svg",
+    "static/media/Rizontie.svg": "/senso/static/media/Rizontie.d889fdbda84c2b4229fe92af97b2fd99.svg",
+    "static/media/logo-white.svg": "/senso/static/media/logo-white.f66aeb3d42b275d96077cfd51cccd9fb.svg",
+    "static/media/logo2.svg": "/senso/static/media/logo2.214fe02507cc223997c8d45fd95d3e83.svg",
+    "static/media/Mowera-Serif-Display.ttf": "/senso/static/media/Mowera-Serif-Display.2283cde55f81d22e7bdb.ttf",
+    "static/media/Alina.svg": "/senso/static/media/Alina.8d7c816c025fd172d60994f7919ab56c.svg",
+    "static/media/hero-bg.svg": "/senso/static/media/hero-bg.29666962cab418f2de001dbbacb1b3d1.svg",
+    "static/media/Xiuhcoatl.svg": "/senso/static/media/Xiuhcoatl.09780292549c0ed7de5dba8c88e6ab67.svg",
+    "static/media/token2.svg": "/senso/static/media/token2.ae95e71011d91eced3773bdda66010be.svg",
+    "static/media/discord.svg": "/senso/static/media/discord.51df8b2cd36d344da3bbbc4e1e1e9634.svg",
+    "static/media/discord1.svg": "/senso/static/media/discord1.f5c624a6777d5fbfbdbc593c86d4b8e5.svg",
+    "static/media/twitter1.svg": "/senso/static/media/twitter1.d8da65fb28d52298fa9c15169b4120c9.svg",
+    "static/media/twitter.svg": "/senso/static/media/twitter.13a55b6376a6dd11bd8abe94233d6f1f.svg",
+    "index.html": "/senso/index.html",
+    "static/media/Arrow.svg": "/senso/static/media/Arrow.e865382fe4631469990f2dcb01321fb5.svg",
+    "static/media/Rectangle2.svg": "/senso/static/media/Rectangle2.27ea8d07f0550e07b3713f04ec723541.svg",
+    "static/media/Rectangle3.svg": "/senso/static/media/Rectangle3.cb42658d47cd6f6bf63a9100339fcffa.svg",
+    "static/media/Rectangle1.svg": "/senso/static/media/Rectangle1.9212f9792adfabe2b3e3d52fabedf426.svg",
+    "main.c6cc8591.css.map": "/senso/static/css/main.c6cc8591.css.map",
+    "main.2178d86a.js.map": "/senso/static/js/main.2178d86a.js.map",
+    "787.7e775cb0.chunk.js.map": "/senso/static/js/787.7e775cb0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c6cc8591.css",
+    "static/js/main.2178d86a.js"
+  ]
+}
