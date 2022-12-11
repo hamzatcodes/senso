@@ -1,13 +1,105 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: Mowera;
+    src: url("./assets/fonts/Mowera-Serif-Display.ttf");
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+body {
+    font-family: Mowera, serif;
 }
+
+.token {
+    background: linear-gradient(
+        180deg,
+        #0085ff 24.22%,
+        rgba(160, 199, 255, 0) 95.81%
+    );
+}
+
+.roadmap-header {
+    background: #018dff;
+}
+
+.roadmap-content {
+    background: linear-gradient(
+        89.46deg,
+        #00f0ff -10.21%,
+        #0066ff 40.89%,
+        #153375 96.91%
+    );
+}
+
+::-webkit-scrollbar {
+    width: 10px;
+    @apply bg-dark/70;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+    box-shadow: inset 0 0 5px gray;
+    @apply rounded-xl;
+    @apply bg-light;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+    @apply bg-dark rounded-xl;
+}
+
+@keyframes bounce {
+    0%,
+    100% {
+        transform: translateY(-5%);
+        animation-timing-function: cubic-bezier(0.1, 0, 0.2, 0.5);
+    }
+    50% {
+        transform: none;
+        animation-timing-function: cubic-bezier(0.1, 0, 0.2, 0.5);
+    }
+}
+.animate-hero {
+    animation: bounce 1s infinite;
+}
+
+@keyframes spin {
+    to {
+        transform: rotate(360deg);
+    }
+}
+
+@keyframes spin2 {
+    to {
+        transform: rotate(-360deg);
+    }
+}
+
+.animate-spin1 {
+    animation: spin 10s linear infinite;
+}
+.animate-spin2 {
+    animation: spin 17s linear infinite;
+}
+.animate-spin3 {
+    animation: spin2 20s linear infinite;
+}
+
+@keyframes lore {
+    to {
+        transition: all;
+        transition-duration: 300;
+        margin-left: 48px;
+        opacity: 0;
+    }
+}
+
+.animate-lore {
+    animation: lore 2s linear infinite;
+}
+
+.lore:hover .animate-lore {
+    animation: none !important;
+}
+
