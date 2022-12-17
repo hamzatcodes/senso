@@ -9,6 +9,7 @@
 
 body {
     font-family: Mowera, serif;
+    overflow-x: hidden;
 }
 
 .token {
