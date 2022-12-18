@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/senso/static/css/main.c6cc8591.css",
-    "main.js": "/senso/static/js/main.2178d86a.js",
+    "main.css": "/senso/static/css/main.6529d711.css",
+    "main.js": "/senso/static/js/main.f481fd96.js",
     "static/js/787.7e775cb0.chunk.js": "/senso/static/js/787.7e775cb0.chunk.js",
     "static/media/Nfts.svg": "/senso/static/media/Nfts.c362bda9a06c0ba9100af123cfa6bfa5.svg",
     "static/media/dragon2.svg": "/senso/static/media/dragon2.b3e2a2a8381899f13d0a8031b0a9e57a.svg",
@@ -31,12 +31,12 @@
     "static/media/Rectangle2.svg": "/senso/static/media/Rectangle2.27ea8d07f0550e07b3713f04ec723541.svg",
     "static/media/Rectangle3.svg": "/senso/static/media/Rectangle3.cb42658d47cd6f6bf63a9100339fcffa.svg",
     "static/media/Rectangle1.svg": "/senso/static/media/Rectangle1.9212f9792adfabe2b3e3d52fabedf426.svg",
-    "main.c6cc8591.css.map": "/senso/static/css/main.c6cc8591.css.map",
-    "main.2178d86a.js.map": "/senso/static/js/main.2178d86a.js.map",
+    "main.6529d711.css.map": "/senso/static/css/main.6529d711.css.map",
+    "main.f481fd96.js.map": "/senso/static/js/main.f481fd96.js.map",
     "787.7e775cb0.chunk.js.map": "/senso/static/js/787.7e775cb0.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c6cc8591.css",
-    "static/js/main.2178d86a.js"
+    "static/css/main.6529d711.css",
+    "static/js/main.f481fd96.js"
   ]
 }
